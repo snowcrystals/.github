@@ -1,0 +1,70 @@
+{
+	"labels": [
+		{
+			"name": "Bug 🐛",
+			"description": "A bug or security issue",
+			"color": "#F94144"
+		},
+		{
+			"name": "Question ❓",
+			"description": "Support or more information is requested",
+			"color": "#f3722c"
+		},
+		{
+			"name": "Duplicate ©️",
+			"description": "A duplicate pull request or issue",
+			"color": "#f8961e"
+		},
+		{
+			"name": "Feature 🎉",
+			"description": "PRs and Issues related to existing/requested features",
+			"color": "#43aa8b"
+		},
+		{
+			"name": "Dependencies 🚀",
+			"description": "PRs and Issues related to dependencies",
+			"color": "#277da1"
+		},
+		{
+			"name": "Documentation 🗞️",
+			"description": "Improvements or additions to the documentation",
+			"color": "#277da1"
+		},
+		{
+			"name": "Chore 🧹",
+			"description": "",
+			"color": "#277da1"
+		},
+		{
+			"name": "Fix ❗",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Refactor 📏",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Build 🏗️",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Test 🧪",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Ci 🥽",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Revert ⬅️",
+			"description": "",
+			"color": "#277DA1"
+		}
+	],
+	"repository": {}
+}
