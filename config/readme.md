@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="@ijskoud/{project.icon}" width="100px" />
-    <h1>{repo.name}</h1>
+    <img src="{project.icon}" width="100px" />
+    <h1>@ijskoud/{repo.name}</h1>
   
   <p>{repo.description}</p>
   
