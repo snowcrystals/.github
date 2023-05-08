@@ -5,7 +5,9 @@
   <p>{repo.description}</p>
   
   <p align="center">
-    <img alt="Version" src="https://img.shields.io/badge/version-{project.version}-blue.svg" />
+    <a href="/">
+        <img alt="Version" src="https://img.shields.io/badge/version-{project.version}-blue.svg" />
+    </a>
     <a href="/LICENSE" target="_blank">
       <img alt="License: {repo.license}" src="https://img.shields.io/badge/License-{repo.license}-yellow.svg" />
     </a>
