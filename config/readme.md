@@ -29,13 +29,11 @@
 
 ## Information
 
-{project.information}
+{variables.information}
 
 ## Install
 
-{project.installation}
-
-{project.extra_info}
+{variables.installation}
 
 ## Author
 
